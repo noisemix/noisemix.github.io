@@ -37,8 +37,24 @@ Learn noisification models from raw data or pre-trained vectors
 
 ## Appendix
 
+TOC
+
 ### Noise Types
 
-### Example Output
+### Output
+
+#### Downloads
+Links to actual datasets
+
+#### Samples
+Sample rows
+Sample predictions by noisified model vs baseline model
+
+### Reproducing
+Explanation of how to reproduce the results
+```
+pip install noisemix
+...
+```
 
 
