@@ -33,7 +33,11 @@ vs more real data
 One drawback is longer training time.
 
 ### Future work
-Learn noisification models from raw data or pre-trained vectors
+More languages, keyboard layouts etc  
+Learn noisification models from raw data or pre-trained vectors  
+Noisification as a hyperparameter - grid search  
+
+### References
 
 ## Appendix
 
