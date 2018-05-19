@@ -28,7 +28,7 @@ vs more real data
 ## Conclusion
 
 1 - Noisification is very effective.
-2 - Most of the features that are meaninful for a given task can be packed in few rows,
+2 - Most of the information about features that are meaningful for a given task is in any small random subset of the rows, after that mostly only non-task-specific noise is being learnt.
 
 One drawback is longer training time.
 
