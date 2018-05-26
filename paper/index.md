@@ -18,12 +18,12 @@ Basic data augmentation resulted in significant gains across the tasks of questi
 
 Keywords:
 
-[1 Introduction](#introduction)  
-[2 Background](#background)  
-[3 Implementation](#implementation)  
-[4 Results](#results)  
-[5 Conclusion](#conclusion)  
-[6 Appendix](#appendix)  
+[1 Introduction](#1-introduction)  
+[2 Background](#2-background)  
+[3 Implementation](#3-implementation)  
+[4 Results](#4-results)  
+[5 Conclusion](#5-conclusion)  
+[6 Appendix](#6-appendix)  
 
 ---
 
